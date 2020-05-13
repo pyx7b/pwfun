@@ -1,1 +1,1 @@
-Check out the wikis
+Check out the [wiki](https://gitlab.com/pyx7b/pwnfun/-/wikis/home)
